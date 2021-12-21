@@ -1,1 +1,1 @@
-this is line 1 of text1.txt
+this is line 1

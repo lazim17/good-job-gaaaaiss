@@ -1,2 +1,2 @@
-this is line 1 of text1.txt
-this is line 2 of text2.txt
+this is line 1
+this is line 2
